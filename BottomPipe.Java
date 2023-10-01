@@ -1,3 +1,9 @@
+import java.awt.Graphics;
+import java.awt.Rectangle;
+import java.awt.Toolkit;
+import java.awt..Image;
+import java.awt.image.BufferedImage;
+
 public class BottomPipe{
     private Image bottomPipe;
     private int xLoc =0, yLoc = 0;
